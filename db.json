@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "SamSung S10",
+      "price": "500a",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Nokia X10",
+      "price": "4004aa",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "nam",
+      "price": "400",
+      "status": ""
+    },
+    {
+      "id": 7,
+      "name": "fasdfaasdf",
+      "price": "400",
+      "status": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Iphone X",
+            "price":500,
+            "status":true
+        },
+        {
+            "id":2,
+            "name":"SamSung S10",
+            "price":400,
+            "status":false
+        }
+    ]
+}
